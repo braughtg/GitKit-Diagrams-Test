@@ -17,9 +17,6 @@
             <mxPoint x="500" y="243" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7sOBltUQN4BmMYUeFLgz-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-30;fontSize=20;fontStyle=1;fontColor=light-dark(#feffff, #ededed);" value="Fork" vertex="1">
-          <mxGeometry height="30" width="60" x="742" y="61" as="geometry" />
-        </mxCell>
         <mxCell id="7sOBltUQN4BmMYUeFLgz-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;" value="Upstream" vertex="1">
           <mxGeometry height="30" width="60" x="644.5" y="185" as="geometry" />
         </mxCell>
