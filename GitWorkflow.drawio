@@ -8,7 +8,7 @@
           <mxGeometry height="72" width="158" x="547" y="503" as="geometry" />
         </mxCell>
         <mxCell id="7sOBltUQN4BmMYUeFLgz-31" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=default;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="115" width="255" x="547" y="185" as="geometry" />
+          <mxGeometry height="115" width="255" x="547" y="175" as="geometry" />
         </mxCell>
         <mxCell id="7sOBltUQN4BmMYUeFLgz-27" edge="1" parent="1" source="i85RTsrPNg15xlXsAtY4-66" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#3399FF;width=42;endSize=12.33;endWidth=30;fontSize=20;labelBackgroundColor=light-dark(#3298ff, #ededed);fontColor=light-dark(#feffff, #ededed);fontStyle=1;labelBorderColor=none;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="7sOBltUQN4BmMYUeFLgz-31" value="pull request">
           <mxGeometry height="50" relative="1" width="50" x="-0.0972" y="3" as="geometry">
@@ -18,7 +18,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7sOBltUQN4BmMYUeFLgz-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;" value="Upstream" vertex="1">
-          <mxGeometry height="30" width="60" x="644.5" y="185" as="geometry" />
+          <mxGeometry height="30" width="60" x="645" y="175" as="geometry" />
         </mxCell>
         <mxCell id="i85RTsrPNg15xlXsAtY4-65" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="66" width="245" x="552" y="220" as="geometry" />
